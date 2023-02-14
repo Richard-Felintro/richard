@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Batatinha frita 123
-=======
 página de perfil
->>>>>>> richard
